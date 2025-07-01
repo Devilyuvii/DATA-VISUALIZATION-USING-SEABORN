@@ -1,6 +1,6 @@
 # DATA-VISUALIZATION-USING-SEABORN
 
-from pathlib import Path
+---
 
 ## Project Title
 **Excel Data Cleaner and Visualizer using Python**
